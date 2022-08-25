@@ -1,6 +1,6 @@
 # Akash Pramod Kumar
-### netid: apramodk ----- github:apramodk
 ### Computer Science
+#### netid: apramodk ----- github:apramodk
 _____________________________________________
 
 ### Background:
