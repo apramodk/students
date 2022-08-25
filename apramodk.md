@@ -1,15 +1,15 @@
 # Akash Pramod Kumar
-## netid: apramodk ----- github:apramodk
+### netid: apramodk ----- github:apramodk
 ### Computer Science
 _____________________________________________
 
-## Background:
-### I began coding when I started my computer science major, and since then I've explored and learned a few languages on my own, and got comfortable with agile and version control at my internship last summer.
+### Background:
+#### I began coding when I started my computer science major, and since then I've explored and learned a few languages on my own, and got comfortable with agile and version control at my internship last summer.
 
-## Interests:
-### In my free time I cook, play soccer, and go to the gym
+### Interests:
+#### In my free time I cook, play soccer, and go to the gym
 
-#Skils:
+# Skils:
   - C++
   - Javascript
   - Svelte
